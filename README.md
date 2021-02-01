@@ -22,7 +22,7 @@ Before (Just an Example)
 |1|Conjunctivitis| Itching | NaN | ...| Nan|
 |2|...| ... | ...|...|...|
 
-After (Ex.)
+After 
 
 |index| Disease | Fever | Nausea | Itching |...| Diarrhea |
 |---|---|---|---|---|---|---|
