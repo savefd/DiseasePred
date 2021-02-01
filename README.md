@@ -6,5 +6,7 @@ About this Task
 
 Reshaping then Predicting diseases with RandomForestClassifier
 
-I have 100% accuracy in this work, The Dataset is too clean. 😥
+
+
+I have 100% accuracy in this work, The Dataset is too clean. (1st Place)😥 
 
