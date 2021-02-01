@@ -1,7 +1,7 @@
 # Disease Type Prediction by Symptoms
 
 About this Task
-- Data from Kaggle.com
+- Data from: https://www.kaggle.com/itachi9604/disease-symptom-description-dataset
 - My Kaggle nb is here -> https://www.kaggle.com/napongleelasithorn/disease-prediction-random-forest
 
 Reshaping then Predicting diseases with RandomForestClassifier
