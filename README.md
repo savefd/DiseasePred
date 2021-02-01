@@ -30,5 +30,5 @@ After
 |1|Conjunctivitis|0|0|1|...|0|
 |2|...|...|...|...|...|...|
 
-Confusion Matrix
+Precision, Recall, Acc = 1.0
 
