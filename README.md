@@ -29,3 +29,6 @@ After
 |0|Bacterial Infection|1 |1| 0| ...| 0|
 |1|Conjunctivitis|0|0|1|...|0|
 |2|...|...|...|...|...|...|
+
+Confusion Matrix
+
