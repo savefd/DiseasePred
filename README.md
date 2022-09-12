@@ -8,7 +8,7 @@ Reshaping then Predicting diseases with RandomForestClassifier
 
 
 
-I have 100% accuracy in this work, The Dataset is too clean and too Fake. (1st Place)😥 
+I have 100% accuracy in this work, The Dataset is too clean 😥 
 
 Briefly process
 - transform df
